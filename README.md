@@ -1,0 +1,2 @@
+# hotel
+My registration form
